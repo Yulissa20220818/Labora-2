@@ -1,0 +1,17 @@
+C:\Users\USUARIO\source\repos\Laboratorio2\Laboratorio2\bin\Debug\net8.0\Laboratorio2.exe
+C:\Users\USUARIO\source\repos\Laboratorio2\Laboratorio2\bin\Debug\net8.0\Laboratorio2.deps.json
+C:\Users\USUARIO\source\repos\Laboratorio2\Laboratorio2\bin\Debug\net8.0\Laboratorio2.runtimeconfig.json
+C:\Users\USUARIO\source\repos\Laboratorio2\Laboratorio2\bin\Debug\net8.0\Laboratorio2.dll
+C:\Users\USUARIO\source\repos\Laboratorio2\Laboratorio2\bin\Debug\net8.0\Laboratorio2.pdb
+C:\Users\USUARIO\source\repos\Laboratorio2\Laboratorio2\bin\Debug\net8.0\Spectre.Console.dll
+C:\Users\USUARIO\source\repos\Laboratorio2\Laboratorio2\obj\Debug\net8.0\Laboratorio2.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\Laboratorio2\Laboratorio2\obj\Debug\net8.0\Laboratorio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\source\repos\Laboratorio2\Laboratorio2\obj\Debug\net8.0\Laboratorio2.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\Laboratorio2\Laboratorio2\obj\Debug\net8.0\Laboratorio2.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\Laboratorio2\Laboratorio2\obj\Debug\net8.0\Laboratorio2.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\Laboratorio2\Laboratorio2\obj\Debug\net8.0\Laborato.314B9490.Up2Date
+C:\Users\USUARIO\source\repos\Laboratorio2\Laboratorio2\obj\Debug\net8.0\Laboratorio2.dll
+C:\Users\USUARIO\source\repos\Laboratorio2\Laboratorio2\obj\Debug\net8.0\refint\Laboratorio2.dll
+C:\Users\USUARIO\source\repos\Laboratorio2\Laboratorio2\obj\Debug\net8.0\Laboratorio2.pdb
+C:\Users\USUARIO\source\repos\Laboratorio2\Laboratorio2\obj\Debug\net8.0\Laboratorio2.genruntimeconfig.cache
+C:\Users\USUARIO\source\repos\Laboratorio2\Laboratorio2\obj\Debug\net8.0\ref\Laboratorio2.dll
